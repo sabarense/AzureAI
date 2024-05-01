@@ -1,0 +1,1 @@
+Repositório de códigos para a criação de uma aplicação Java que consome a API Custom Vision da Microsoft Azure. A aplicação utiliza técnicas de aprendizado para reconhecimento de conteúdo específico em imagens, tornando-se mais inteligente ao longo do tempo com o treinamento contínuo
